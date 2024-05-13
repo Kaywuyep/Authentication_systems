@@ -1,5 +1,5 @@
 ## READY TO EAT
-This web application is a mini project, the application is built for a resturant eat ease:
+This web application is a mini project, the application is built for a resturant easy access ease:
 - reservation booking
 - quick orders for food
 - you could also pick a chef who gets to make your meals
