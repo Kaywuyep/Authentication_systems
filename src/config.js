@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 // connect to db
-const connect = mongoose.connect('mongodb+srv://wuyepkate:P26Lsmk9Hd9widvh@cluster0.e3dbxct.mongodb.net/Readytoeat?retryWrites=true&w=majority&appName=Cluster0');
+const connect = mongoose.connect('mongodb+srv://wuyepkate:Password@cluster0.e3dbxct.mongodb.net/Readytoeat?retryWrites=true&w=majority&appName=Cluster0');
 
 // check data base connection
 
