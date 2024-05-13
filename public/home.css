@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    background-image: url('./img/home.png');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Custom Styles */
+
+.banner_section {
+    background-color: transparent; /*#f8f9fa;*/
+    padding: 50px 0;
+    /*text-align: center;*/
+}
+
+.banner_taital {
+    font-size: 3em;
+    color: black; /*#333;*/
+    margin-bottom: 20px;
+}
+
+.banner_text {
+    color: black; /*#666;*/
+    margin-bottom: 30px;
+}
+
+.btn_main {
+    display: flex;
+    justify-content: center;
+}
+
+.reg_bt {
+    margin: 0 10px;
+}
+
+.reg_bt a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.reg_bt a:hover {
+    background-color: #0056b3;
+}
